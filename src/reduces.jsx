@@ -12,7 +12,6 @@ export const reducer = (state, action) => {
         ...state,
         loading: true,
       };
-
     case "SUCCESS":
       return {
         ...state,
@@ -27,8 +26,5 @@ export const reducer = (state, action) => {
         error: action.payload,
         loading: false,
       };
-      break;
-    default:
-      break;
   }
 };
