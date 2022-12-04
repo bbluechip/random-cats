@@ -5,7 +5,7 @@
 👉[Click here to see the page](https://random-cats-ten.vercel.app/)
 
 ## Used in this project
-👉 Create react app, Reactjs, useState, reducer, useReducer, dispatch. 
+👉 Create react app, Reactjs, useState, useEffect, reducer, useReducer, dispatch. 
 
 👉 CSS.
 
